@@ -2,23 +2,30 @@
 #container{    
     margin:auto;
     text-align: center;
-    background-color:olivedrab;
+    
     
 }
 
 body{
     background-color:wheat;
+   
+}
+
+h1{
+    font-size: 80px;
+    line-height: 110px;
+    float: left;
+    color:saddlebrown;
+
+}
+
+#coffeecup{
     margin: center;
     position: absolute;
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
 }
-
-h1{
-    color: cornsilk;
-}
-
 #cup-top{
     position: relative;
     width:120px;
